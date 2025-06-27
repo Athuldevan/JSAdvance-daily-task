@@ -18,7 +18,7 @@ const first = function () {
   }
 
   function third() {
-    console.log("i am  third function "); //Printing i am third fucntion 
+    console.log("i am  third function ");//Printing i am third fucntion 
   }
 };
 
